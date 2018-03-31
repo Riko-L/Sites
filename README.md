@@ -2,4 +2,4 @@
 
 ## Générateur de configuration NGINX:
 
---* [nginxconfig.io] (https://nginxconfig.io/)
+--*[nginxconfig.io](https://nginxconfig.io/)
